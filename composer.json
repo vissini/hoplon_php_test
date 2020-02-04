@@ -1,0 +1,17 @@
+{
+    "name": "vissini/hoplon",
+    "authors": [
+        {
+            "name": "Diego Vissini",
+            "email": "diego@vissini.com.br"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "hoplon\\": "src/"
+        }
+    }
+}
